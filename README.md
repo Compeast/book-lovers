@@ -1,7 +1,6 @@
 ## Laravel Test
-Reference-style:
-![Compeast][logo]
-[logo]: https://github.com/Compeast/book-lovers/images/icon48.png "Compeast"
+![compeast](https://github.com/Compeast/book-lovers/doc/compeast.png "Compeast")
+
 
 Using Laravel / PHP for crete search page and product details page
 
@@ -37,15 +36,17 @@ Using Laravel / PHP for crete search page and product details page
 - you are free to use [Livewire](https://laravel-livewire.com/) or not.
 
 ### Install
-- fork
-- composer install 
+- FORK to your account
+- git clone ...
+- composer install
+- touch book_api.sqlite under database folder
 - npm install
 - npm run build
 
 
 
 ### Screenshots :
-![screencapture-e-shop-loc-admin-2020-08-15-15_47_37](https://user-images.githubusercontent.com/29488275/90719413-13b82200-e2d4-11ea-8ca0-f0e5551c4c9d.png)
+![search](https://github.com/Compeast/book-lovers/doc/search.png)
 
 ![screencapture-e-shop-loc-admin-category-2020-08-14-19_45_55](https://user-images.githubusercontent.com/29488275/90719470-3813fe80-e2d4-11ea-8f63-e6001855a945.png)
 
