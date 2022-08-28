@@ -1,5 +1,5 @@
 ## Laravel Test
-![compeast](https://github.com/Compeast/book-lovers/doc/compeast.png "Compeast")
+![compeast](https://github.com/Compeast/book-lovers/raw/main/doc/compeast.png "Compeast")
 
 
 Using Laravel / PHP for crete search page and product details page
@@ -24,7 +24,7 @@ Using Laravel / PHP for crete search page and product details page
 
 #### Book details
 - Similar Books in Book detail can be the new book ( https://api.itbook.store/#api-new)
-- "look-inside" at the top of the book image if the book contains "PDF."
+- "look-inside" at the top of the book image if the book contains "PDF." ![search](https://github.com/Compeast/book-lovers/raw/main/doc/look-inside.png)
 - When the user clicks on to "look inside icon," it pop-up a PDF to read it.
 - When the user clicks to Author Search by author
 
@@ -43,10 +43,10 @@ Using Laravel / PHP for crete search page and product details page
 - npm install
 - npm run build
 
-
-
 ### Screenshots :
-![search](https://github.com/Compeast/book-lovers/doc/search.png)
+![search](https://github.com/Compeast/book-lovers/raw/main/doc/search.png)
 
-![screencapture-e-shop-loc-admin-category-2020-08-14-19_45_55](https://user-images.githubusercontent.com/29488275/90719470-3813fe80-e2d4-11ea-8f63-e6001855a945.png)
+![search books](https://github.com/Compeast/book-lovers/raw/main/doc/search-books.png)
+
+![bookdetails](https://github.com/Compeast/book-lovers/raw/main/doc/bookdetails.png)
 
